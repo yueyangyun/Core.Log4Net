@@ -1,0 +1,12 @@
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\bin\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.deps.json
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\bin\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.runtimeconfig.json
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\bin\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.runtimeconfig.dev.json
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\bin\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.dll
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\bin\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.pdb
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.dll
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.pdb
+D:\BaiduNetdiskDownload\00 顺普 上海2组 通用程序集 NETStandard2.0\NetCoreXxx\01.Demo\06.NETCoreLog4Net\NetCoreLog4Net_NoConfig\obj\Debug\netcoreapp2.2\NetCoreLog4Net_NoConfig.genruntimeconfig.cache
